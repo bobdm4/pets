@@ -1,0 +1,13 @@
+{
+  "main.css": "/pets/static/css/main.13a9b9c9.chunk.css",
+  "main.js": "/pets/static/js/main.a48456d4.chunk.js",
+  "main.js.map": "/pets/static/js/main.a48456d4.chunk.js.map",
+  "runtime~main.js": "/pets/static/js/runtime~main.9ec6c824.js",
+  "runtime~main.js.map": "/pets/static/js/runtime~main.9ec6c824.js.map",
+  "static/js/2.653250ec.chunk.js": "/pets/static/js/2.653250ec.chunk.js",
+  "static/js/2.653250ec.chunk.js.map": "/pets/static/js/2.653250ec.chunk.js.map",
+  "index.html": "/pets/index.html",
+  "precache-manifest.9d846eb6cb8310d2b29f8b655808318a.js": "/pets/precache-manifest.9d846eb6cb8310d2b29f8b655808318a.js",
+  "service-worker.js": "/pets/service-worker.js",
+  "static/css/main.13a9b9c9.chunk.css.map": "/pets/static/css/main.13a9b9c9.chunk.css.map"
+}
